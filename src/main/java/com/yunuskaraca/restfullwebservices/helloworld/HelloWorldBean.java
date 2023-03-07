@@ -1,4 +1,4 @@
-package com.yunuskaraca.restfullwebservices;
+package com.yunuskaraca.restfullwebservices.helloworld;
 
 public class HelloWorldBean {
     private String message;

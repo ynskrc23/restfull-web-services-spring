@@ -1,5 +1,6 @@
-package com.yunuskaraca.restfullwebservices;
+package com.yunuskaraca.restfullwebservices.helloworld;
 
+import com.yunuskaraca.restfullwebservices.helloworld.HelloWorldBean;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
